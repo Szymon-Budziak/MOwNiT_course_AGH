@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Files
+Labs_1/MOwNiT_lab1.pdf
