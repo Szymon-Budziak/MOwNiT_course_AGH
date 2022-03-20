@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # Files
-Labs_1/MOwNiT_lab1.pdf
+Lab_1/MOwNiT_lab1.pdf
+.idea
