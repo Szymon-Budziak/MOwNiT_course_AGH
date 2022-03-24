@@ -128,6 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Files
+# Folders and files
 Lab_1/MOwNiT_lab1.pdf
-.idea
+.idea/
+Lab_2/MOwNiT_lab_interp.pdf
+Lab_2/Funkcje_interp_sr_17_50_a.pdf
